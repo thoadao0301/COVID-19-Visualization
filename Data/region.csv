@@ -1,0 +1,208 @@
+country;Continent;Region
+Afghanistan;Asia;Southern Asia
+Albania;Europe;Southern Europe
+Algeria;Africa;Northern Africa
+American Samoa;Oceania;Polynesia
+Andorra;Europe;Southern Europe
+Angola;Africa;Middle Africa
+Antigua and Barbuda;Latin America and the Caribbean;Caribbean
+Argentina;Latin America and the Caribbean;South America
+Armenia;Asia;Western Asia
+Australia;Oceania;Australia and New Zealand
+Austria;Europe;Western Europe
+Azerbaijan;Asia;Western Asia
+Bahamas;Latin America and the Caribbean;Caribbean
+Bahrain;Asia;Western Asia
+Bangladesh;Asia;Southern Asia
+Barbados;Latin America and the Caribbean;Caribbean
+Belarus;Europe;Eastern Europe
+Belgium;Europe;Western Europe
+Belize;Latin America and the Caribbean;Central America
+Benin;Africa;Western Africa
+Bhutan;Asia;Southern Asia
+Bolivia;Latin America and the Caribbean;South America
+Bosnia and Herzegovina;Europe;Southern Europe
+Botswana;Africa;Southern Africa
+Brazil;Latin America and the Caribbean;South America
+Brunei;Asia;South-Eastern Asia
+Bulgaria;Europe;Eastern Europe
+Burkina Faso;Africa;Western Africa
+Burundi;Africa;Eastern Africa
+Cabo Verde;Africa;Western Africa
+Cambodia;Asia;South-Eastern Asia
+Cameroon;Africa;Middle Africa
+Canada;Northern America;Northern America
+Central African Republic;Africa;Middle Africa
+Chad;Africa;Middle Africa
+Chile;Latin America and the Caribbean;South America
+China;Asia;Eastern Asia
+Hong Kong;Asia;Eastern Asia
+Macao;Asia;Eastern Asia
+Colombia;Latin America and the Caribbean;South America
+Comoros;Africa;Eastern Africa
+Congo (Brazzaville);Africa;Middle Africa
+Congo (Kinshasa);Africa;Middle Africa
+Costa Rica;Latin America and the Caribbean;Central America
+Cote d'Ivoire;Africa;Western Africa
+Croatia;Europe;Southern Europe
+Cuba;Latin America and the Caribbean;Caribbean
+Cyprus;Asia;Western Asia
+Czechia;Europe;Eastern Europe
+Korea, South;Asia;Eastern Asia
+Denmark;Europe;Northern Europe
+Djibouti;Africa;Eastern Africa
+Dominica;Latin America and the Caribbean;Caribbean
+Dominican Republic;Latin America and the Caribbean;Caribbean
+Ecuador;Latin America and the Caribbean;South America
+Egypt;Africa;Northern Africa
+El Salvador;Latin America and the Caribbean;Central America
+Equatorial Guinea;Africa;Middle Africa
+Eritrea;Africa;Eastern Africa
+Estonia;Europe;Northern Europe
+Eswatini;Africa;South Africa
+Ethiopia;Africa;Eastern Africa
+Fiji;Oceania;Melanesia
+Finland;Europe;Northern Europe
+France;Europe;Western Europe
+French Guiana;Latin America and the Caribbean;South America
+French Polynesia;Oceania
+Gabon;Africa;Middle Africa
+Gambia;Africa;Western Africa
+Georgia;Asia;Western Asia
+Germany;Europe;Western Europe
+Ghana;Africa;Western Africa
+Greece;Europe;Southern Europe
+Grenada;Latin America and the Caribbean;Caribbean
+Guatemala;Latin America and the Caribbean;Central America
+Guinea;Africa;Western Africa
+Guinea-Bissau;Africa;Western Africa
+Guyana;Latin America and the Caribbean;South America
+Haiti;Latin America and the Caribbean;Caribbean
+Holy See;Europe;Southern Europe
+Honduras;Latin America and the Caribbean;Central America
+Hungary;Europe;Eastern Europe
+Iceland;Europe;Northern Europe
+India;Asia;Southern Asia
+Indonesia;Asia;South-Eastern Asia
+Iran;Asia;Southern Asia
+Iraq;Asia;Western Asia
+Ireland;Europe;Northern Europe
+Israel;Asia;Western Asia
+Italy;Europe;Southern Europe
+Jamaica;Latin America and the Caribbean;Caribbean
+Japan;Asia;Eastern Asia
+Jordan;Asia;Western Asia
+Kazakhstan;Asia;Central Asia
+Kenya;Africa;Eastern Africa
+Kiribati;Oceania;Micronesia
+Kuwait;Asia;Western Asia
+Kyrgyzstan;Asia;Central Asia
+Kosovo;Europe
+Laos;Asia;South-Eastern Asia
+Latvia;Europe;Northern Europe
+Lebanon;Asia;Western Asia
+Lesotho;Africa;Southern Africa
+Liberia;Africa;Western Africa
+Libya;Africa;Northern Africa
+Liechtenstein;Europe;Western Europe
+Lithuania;Europe;Northern Europe
+Luxembourg;Europe;Western Europe
+Madagascar;Africa;Eastern Africa
+Malawi;Africa;Eastern Africa
+Malaysia;Asia;South-Eastern Asia
+Maldives;Asia;Southern Asia
+Mali;Africa;Western Africa
+Malta;Europe;Southern Europe
+Marshall Islands;Oceania;Micronesia
+Mauritania;Africa;Western Africa
+Mauritius;Africa;Eastern Africa
+Mexico;Latin America and the Caribbean;Central America
+Micronesia;Oceania;Micronesia
+Moldova;Europe;Eastern Europe
+Monaco;Europe;Western Europe
+Mongolia;Asia;Eastern Asia
+Montenegro;Europe;Southern Europe
+Morocco;Africa;Northern Africa
+Mozambique;Africa;Eastern Africa
+Myanmar;Asia;South-Eastern Asia
+Namibia;Africa;Southern Africa
+Nauru;Oceania;Micronesia
+Nepal;Asia;Southern Asia
+Netherlands;Europe;Western Europe
+New Caledonia;Oceania;Melanesia
+New Zealand;Oceania;Australia and New Zealand
+Nicaragua;Latin America and the Caribbean;Central America
+Niger;Africa;Western Africa
+Nigeria;Africa;Western Africa
+Norway;Europe;Northern Europe
+Oman;Asia;Western Asia
+Pakistan;Asia;Southern Asia
+Palau;Oceania;Micronesia
+Panama;Latin America and the Caribbean;Central America
+Papua New Guinea;Oceania;Melanesia
+Paraguay;Latin America and the Caribbean;South America
+Peru;Latin America and the Caribbean;South America
+Philippines;Asia;South-Eastern Asia
+Poland;Europe;Eastern Europe
+Portugal;Europe;Southern Europe
+Qatar;Asia;Western Asia
+Republic of Korea;Asia;Eastern Asia
+Republic of Moldova;Europe;Eastern Europe
+Romania;Europe;Eastern Europe
+Russia;Europe;Eastern Europe
+Rwanda;Africa;Eastern Africa
+Saint Kitts and Nevis;Latin America and the Caribbean;Caribbean
+Saint Lucia;Latin America and the Caribbean;Caribbean
+Saint Vincent and the Grenadines;Latin America and the Caribbean;Caribbean
+Samoa;Oceania;Polynesia
+San Marino;Europe;Southern Europe
+Sao Tome and Principe;Africa;Middle Africa
+Saudi Arabia;Asia;Western Asia
+Senegal;Africa;Western Africa
+Serbia;Europe;Southern Europe
+Seychelles;Africa;Eastern Africa
+Sierra Leone;Africa;Western Africa
+Singapore;Asia;South-Eastern Asia
+Slovakia;Europe;Eastern Europe
+Slovenia;Europe;Southern Europe
+Somalia;Africa;Eastern Africa
+South Africa;Africa;Southern Africa
+Spain;Europe;Southern Europe
+Sri Lanka;Asia;Southern Asia
+Palestine;Asia;Western Asia
+Solomon Islands;Oceania
+South Sudan
+Sudan;Africa;Northern Africa
+Suriname;Latin America and the Caribbean;South America
+Swaziland;Africa;Southern Africa
+Sweden;Europe;Northern Europe
+Switzerland;Europe;Western Europe
+Syria;Asia;Western Asia
+Taiwan;Asia;Eastern Asia
+Tajikistan;Asia;Central Asia
+Thailand;Asia;South-Eastern Asia
+Macedonia;Europe;Southern Europe
+Timor-Leste;Asia;South East Asia
+Togo;Africa;Western Africa
+Tonga;Oceania;Polynesia
+Trinidad and Tobago;Latin America and the Caribbean;Caribbean
+Tunisia;Africa;Northern Africa
+Turkey;Asia;Western Asia
+Turkmenistan;Asia;Central Asia
+Tuvalu;Oceania;Polynesia
+Uganda;Africa;Eastern Africa
+Ukraine;Europe;Eastern Europe
+United Arab Emirates;Asia;Western Asia
+United Kingdom;Europe;Northern Europe
+Tanzania;Africa;Eastern Africa
+United States of America;Northern America;Northern America
+Uruguay;Latin America and the Caribbean;South America
+Uzbekistan;Asia;Central Asia
+Vanuatu;Oceania;Melanesia
+Venezuela;Latin America and the Caribbean;South America
+Vietnam;Asia;South-Eastern Asia
+West Bank and Gaza;Asia
+Western Sahara;Africa;Northern Africa
+Yemen;Asia;Western Asia
+Zambia;Africa;Eastern Africa
+Zimbabwe;Africa;Eastern Africa
