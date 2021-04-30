@@ -8,3 +8,4 @@ wordcloud
 pydeck
 pywaffle
 ipywidgets
+voila
