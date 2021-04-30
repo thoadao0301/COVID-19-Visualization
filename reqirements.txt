@@ -1,0 +1,10 @@
+requests
+json
+numpy
+pandas
+matplotlib
+folium
+wordcloud
+pydeck
+pywaffle
+ipywidgets
