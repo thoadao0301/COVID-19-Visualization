@@ -1,5 +1,4 @@
 requests
-json
 numpy
 pandas
 matplotlib
