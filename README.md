@@ -1,5 +1,5 @@
 # COVID-19-Visualization
-### COVID-19 Analystic and visulization
+### COVID-19 Analytic and visualization
 * Using data API from rappid API and data from opensource in Github<br />
 * Using libraries (detail: reqirement.txt) processing data, visualization and interaction with data<br />
 
