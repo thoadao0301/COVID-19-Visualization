@@ -1,7 +1,7 @@
 # COVID-19-Visualization
 ### COVID-19 Analytic and visualization
 * Using data API from rappid API and data from opensource in Github<br />
-* Using libraries (detail: reqirement.txt) processing data, visualization and interaction with data<br />
+* Using libraries such as numpy, matplotlib, pandas (detail: reqirement.txt) processing data, visualization and interaction with data<br />
 
 ### Image of dashboard COVID-19
 ![COVID-19 DASHBOARD](https://github.com/thoadao0301/COVID-19-Visualization/blob/main/Final_report_COVID19.png)
@@ -9,7 +9,7 @@
 
 ### Installation 
 
-To run this project you must have python 3 with virtual enviroment package
+To run this project you must have python 3 with virtual environment package
 
 To install virtualenv run:
 ```
@@ -34,13 +34,13 @@ To leave the virtual environment run:
 deactivate
 ```
 
-To install packages (Must in virutal env)
+To install packages (Must in virtual env)
 
 ```
 pip install -r requirements.txt
 ```
 
-To run jupyter notebook as dashboard we can use voila
+To run Jupyter notebook as a dashboard we can use voila
 
 ```
 pip install voila
